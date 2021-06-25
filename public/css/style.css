@@ -44,16 +44,16 @@
     font-family: Times New Roman;
 }
 
-/*
 .jumbotron{
+/*
     background-image: url(images/Data-collection.jpg); 
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover; 
     border-radius: 0px;
+*/
     background-attachment: fixed;
 }
-*/
 
 .coll h1{
     font-family: Times New Roman; 
