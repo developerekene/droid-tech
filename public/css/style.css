@@ -1,0 +1,96 @@
+#call{
+    color: #FF5733;
+    background: #111777; 
+    border: 1px solid #111777;
+    font-weight: bold;
+}
+
+#call:hover{
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: #FF5733;
+}
+
+.mine{
+    color: white; 
+    background: #111777;
+}
+
+.mine:hover{
+    color: #FF5733;
+    background: white;
+    text-decoration: underline;
+    text-decoration-color: #FF5733;
+}
+
+.push{
+    color: #FF5733;
+}
+
+.container-fluid{
+    float: left;
+}
+
+.container-fluid .navbar-text marquee{
+    color: #111777;
+}
+
+
+.navbar{
+    background: #111777;
+}
+
+.navbar-brand{
+    font-family: Times New Roman;
+}
+
+/*
+.jumbotron{
+    background-image: url(images/Data-collection.jpg); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    border-radius: 0px;
+    background-attachment: fixed;
+}
+*/
+
+.coll h1{
+    font-family: Times New Roman; 
+    color: #FF5733; 
+    display: block; 
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
